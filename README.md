@@ -1,1 +1,1 @@
-# PythonProjects
+# Suicide Rate Visualization
